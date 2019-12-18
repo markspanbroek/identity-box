@@ -8,6 +8,9 @@
     "idservice-cjs": "./index-cjs.js",
     "setup": "./setup.sh"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "files": [
     "src",
     "ecosystem.config.js",
