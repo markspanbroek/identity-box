@@ -6,9 +6,6 @@
   "license": "MIT",
   "main": "lib/index.js",
   "module": "es/index.js",
-  "engines": {
-    "node": ">=8.0.0"
-  },
   "files": [
     "source",
     "lib",
