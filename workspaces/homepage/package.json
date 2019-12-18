@@ -4,9 +4,6 @@
   "description": "Identity Box homepage",
   "version": "0.1.22",
   "author": "Marcin Czenko <marcin@everydayproductive.com>",
-  "engines": {
-    "node": ">=8.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/marcinczenko/identity-box.git"

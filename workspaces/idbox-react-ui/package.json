@@ -9,9 +9,6 @@
   "scripts": {
     "build": "node ./tools/build.js"
   },
-  "engines": {
-    "node": ">=8.0.0"
-  },
   "files": [
     "lib",
     "es",

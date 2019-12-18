@@ -1,9 +1,6 @@
 {
   "name": "idapp",
   "version": "0.1.22",
-  "engines": {
-    "node": ">=8.0.0"
-  },
   "main": "__generated__/AppEntry.js",
   "scripts": {
     "start": "expo start",
