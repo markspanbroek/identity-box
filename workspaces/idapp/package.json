@@ -14,9 +14,6 @@
     "env:dev:idbox": "expo-env --env=development-idbox",
     "env:prod": "expo-env --env=production"
   },
-  "engines": {
-    "node": ">=12.0.0"
-  },
   "dependencies": {
     "@emotion/core": "^10.0.22",
     "@emotion/native": "^10.0.22",
